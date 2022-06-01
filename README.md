@@ -8,4 +8,5 @@ Python 3 ile şikayet verisi indirme
 
 # Güncelleme
 
-Cloudflare DNS'leri aşmak için API gerekmektedir. Çalıştırdığınızda değerler boş döner.
+Cloudflare DNS'leri aşmak için API gerekmektedir. Çalıştırdığınızda değerler boş döner:
+Şu modülü kurabilirsiniz: https://github.com/VeNoMouS/cloudscraper
